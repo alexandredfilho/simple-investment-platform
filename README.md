@@ -128,7 +128,7 @@ A plataforma possui uma job de background chamada **CloseExpiredFundraisesJob**.
 
 #### 1. Clone o repositório
 ```bash
-git clone <url-do-repositorio>
+git clone https://github.com/alexandredfilho/simple-investment-platform
 cd simple-investment-platform
 ```
 
@@ -416,16 +416,16 @@ User (1) ──────< (N) Investment (N) >────── (1) Fundrais
 ## 🎨 Capturas de Tela
 
 ### Dashboard
-![Dashboard com cards e gráfico](image.png)
+<img width="1110" height="1044" alt="Screenshot from 2025-10-26 23-11-32" src="https://github.com/user-attachments/assets/cd0348d8-8960-4bbf-b124-7927d90e6801" />
 
 ### Listagem de Usuários
-![Tabela de usuários com ações](image-1.png)
+<img width="1110" height="1044" alt="Screenshot from 2025-10-26 23-12-05" src="https://github.com/user-attachments/assets/f721856b-fb0d-40cc-a1c7-7ffe4db740d8" />
 
 ### Formulário de Oferta com Datepicker
-![Form com Flatpickr para seleção de data/hora](image-2.png)
+<img width="1110" height="1044" alt="Screenshot from 2025-10-26 23-12-40" src="https://github.com/user-attachments/assets/79035867-1069-45a8-92e8-ba22bb96fc4e" />
 
 ### Perfil do Usuário
-![User show com resumo de investimentos](image-3.png)
+<img width="1110" height="1044" alt="Screenshot from 2025-10-26 23-13-19" src="https://github.com/user-attachments/assets/ff64a11d-b4df-4fd7-8559-6a55e0d60100" />
 
 ---
 
