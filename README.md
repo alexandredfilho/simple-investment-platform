@@ -310,7 +310,7 @@ O projeto possui **47 testes** cobrindo:
 
 ```
 Finished in 0.62842 seconds
-47 examples, 0 failures
+50 examples, 0 failures
 ```
 
 ---
