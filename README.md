@@ -130,6 +130,14 @@ A plataforma possui uma job de background chamada **CloseExpiredFundraisesJob**.
 ```bash
 git clone https://github.com/alexandredfilho/simple-investment-platform
 cd simple-investment-platform
+git checkout feature/investments-implementation
+```
+#### 1.1 Importante: conflito com o PostgreSQL local
+Se você estiver com o PostgreSQL rodando localmente, o Docker não conseguirá subir o container, pois ambos utilizam a mesma porta padrão (5432).
+Antes de executar o projeto com Docker, pare o serviço local do PostgreSQL.
+
+```bash
+sudo systemctl stop postgresql
 ```
 
 #### 2. Configure as variáveis de ambiente (opcional)
