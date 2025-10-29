@@ -85,7 +85,7 @@ Este projeto foi desenvolvido como case técnico para vaga de Desenvolvedor Ruby
 ### Fechamento automático de ofertas expiradas
 
 A plataforma possui uma job de background chamada **CloseExpiredFundraisesJob**. Ela é responsável por:
-- Verificar, a cada 5 minutos, se existem ofertas do tipo Fundraise que já passaram do horário de término mas ainda estão com status aberto.
+- Verificar, a cada 1 minuto, se existem ofertas do tipo Fundraise que já passaram do horário de término mas ainda estão com status aberto.
 - Alterar automaticamente o status dessas ofertas para "closed".
 
 #### Agendamento
