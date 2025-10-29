@@ -193,6 +193,7 @@ docker compose exec web bin/rails db:reset
 ```bash
 git clone https://github.com/alexandredfilho/simple-investment-platform.git
 cd simple-investment-platform
+git checkout feature/investments-implementation
 ```
 
 #### 2. Instale as dependências
