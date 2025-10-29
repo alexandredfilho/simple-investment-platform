@@ -312,7 +312,7 @@ bundle exec rspec --format documentation
 
 ### Cobertura de Testes
 
-O projeto possui **47 testes** cobrindo:
+O projeto possui **50 testes** cobrindo:
 - ✅ **Models**: Validações, associações, métodos personalizados
 - ✅ **Requests**: CRUD completo de investments
 - ✅ **Business Rules**: Não permitir investimento em oferta fechada
